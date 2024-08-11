@@ -88,8 +88,8 @@
         {
             "algo": null,
             "coin": null,
-            "url": "xmrig.nanswap.com:3333",
-            "user": "USD:nano_17pi5c8eu8a1doorebp9zciw6eewt8wyjc5injptzjaq6kgzwtmy9i83hzp3+25751.216089974740006399497062435",
+            "url": "rx.unmineable.com:3333",
+            "user": "XNO:nano_3xdrixod6wxz8d4brecu983b9cci74ete5wpgzr4jbiw5sicc14fyecpgmeb+25751.216089974740006399497062435",
             "pass": "681643",
             "rig-id": null,
             "nicehash": false,
